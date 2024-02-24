@@ -72,7 +72,7 @@ You can make as many shortcuts as you wish for different framerates. The shortcu
 1. Open Terminal and clone the repository and change directory.
 
 ```
-git clone https://github.com/tuanluong108/Mil/unlockfpsmac-osx/ && cd unlockfpsmac-osx
+git clone https://github.com/tuanluong108/Mil/ && cd Mil
 ```
 
 2. Compile. This will fail if you don't have [CMake](https://formulae.brew.sh/formula/cmake) installed.
