@@ -16,13 +16,13 @@ sudo /Users/MyUser/Downloads/rbxfpsunlocker_osx
 6. Then add the FPS cap followed by a space after it. The cap is whatever framerate is desired, e.g. 90, 120, 144, etc. If the supplied framerate is 0, it will automatically be set to unlimited.
 It should look like this with 144 FPS.
 ```
-sudo /Users/MyUser/Downloads/rbxfpsunlocker_osx 144
+sudo /Users/MyUser/Downloads/unlockfpsmac_osx 144
 ```
 If you want to unlock FPS in Roblox Studio, add `-s` at the end of the command. It should look like this.
 ```
-sudo /Users/MyUser/Downloads/rbxfpsunlocker_osx 144 -s
+sudo /Users/MyUser/Downloads/unlockfpsmac_osx 144 -s
 ```
-This is the terminal command you will use to run `rbxfpsunlocker_osx`. **Note:** If you move `rbxfpsunlocker_osx` to another folder, you will need to change the path.
+This is the terminal command you will use to run `unlockfpsmac_osx`. **Note:** If you move `unlockfpsmac_osx` to another folder, you will need to change the path.
 
 8. Open the Terminal App using one of two methods:
 	* Press Command + Space, type in `Terminal`, then press enter on the Terminal app. 
@@ -30,7 +30,7 @@ This is the terminal command you will use to run `rbxfpsunlocker_osx`. **Note:**
 9. With a Roblox game open, copy and paste the command into Terminal. Enter the password used to log into your Mac in if it's asked for. *Please note that you will **NOT** see the password being typed but the text is still there.*
 10. If the program returns an error saying `base_process constructor failed`, close Roblox and run the same command with `-r` at the end, for example.
 ```
-sudo /Users/MyUser/Downloads/rbxfpsunlocker_osx 144 -r
+sudo /Users/MyUser/Downloads/unlockfpsmac_osx 144 -r
 ```
 If this command fails with `internal error in Code Signing subsystem`, go to `Privacy & Security > App Management` (on Ventura) or `Privacy & Security > Full Disk Access` (on older versions), and enable Terminal. Once this is done, try running the unlocker again, as explained in step 9.
 
@@ -44,11 +44,11 @@ In this section, you will create an alias, a terminal shortcut with a name and c
 3. Open `.zshrc` with a text editor, you may need to right-click then press `Open With > Other` and locate the editor you wish to use.
 **If there's any text, don't remove it. Write below all the text in new lines.** Write a new line write an alias like this:
 ```
-alias roblox='sudo /Users/MyUser/Downloads/rbxfpsunlocker_osx 144'
+alias roblox='sudo /Users/MyUser/Downloads/unlockfpsmac_osx 144'
 ```
 The name of the alias is `roblox` but you can name it whatever you want. Keep the exact format, the terminal command is in single quotation marks and there are no spaces next to `=`. You can create as many aliases as you want in separate lines for different framerates.
  
-4. Open the Terminal app **(restart Terminal if it's running in order for the alias to apply)**. Enter in the name you chose for your alias and the command should run. In this case, writing `roblox` then hitting enter should run `rbxfpsunlocker_osx` with a cap of 144.
+4. Open the Terminal app **(restart Terminal if it's running in order for the alias to apply)**. Enter in the name you chose for your alias and the command should run. In this case, writing `roblox` then hitting enter should run `unlockfpsmac_osx` with a cap of 144.
 
 ### Creating an App shortcut
 In this section, you will create a shortcut using the built-in Shortcuts app. **The Shortcuts app is only available on macOS Monterey or newer.**
@@ -72,7 +72,7 @@ You can make as many shortcuts as you wish for different framerates. The shortcu
 1. Open Terminal and clone the repository and change directory.
 
 ```
-git clone https://github.com/lanylow/rbxfpsunlocker-osx/ && cd rbxfpsunlocker-osx
+git clone https://github.com/lanylow/unlockfpsmac-osx/ && cd unlockfpsmac-osx
 ```
 
 2. Compile. This will fail if you don't have [CMake](https://formulae.brew.sh/formula/cmake) installed.
@@ -85,7 +85,7 @@ bash build_release.sh
 
 ```
 cd cmake-build-release
-sudo ./rbxfpsunlocker_osx <cap>
+sudo ./unlockfpsmac_osx <cap>
 ```
 
 ## Disclaimer
