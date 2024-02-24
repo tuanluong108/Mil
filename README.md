@@ -6,12 +6,12 @@ The first Roblox FPS unlocker for macOS. This program currently works only on In
 
 *Note: you must have `sudo` permissions in order to do the steps below. If you do not have `sudo` permissions, either change your account or add yourself to the sudoers file.*
 1. Download the latest release from the [releases page](https://github.com/lanylow/rbxfpsunlocker-osx/releases).
-2. Extract `rbxfpsunlocker.zip` by double clicking on it, if it wasn't extracted automatically.
-3. Place `rbxfpsunlocker_osx` in any folder you want to keep it in.
-4. Right-click on `rbxfpsunlocker_osx`, then hold the Option key, and finally click "Copy rbxfpsunlocker_osx as Pathname"
+2. Extract `unlockfpsmac.zip` by double clicking on it, if it wasn't extracted automatically.
+3. Place `unlockfpsmac_osx` in any folder you want to keep it in.
+4. Right-click on `unlockfpsmac_osx`, then hold the Option key, and finally click "Copy rbxfpsunlocker_osx as Pathname"
 5. In a text editor, paste the text in, then add `sudo` before it. For example:
 ```
-sudo /Users/MyUser/Downloads/rbxfpsunlocker_osx
+sudo /Users/MyUser/Downloads/unlockfpsmac_osx
 ```
 6. Then add the FPS cap followed by a space after it. The cap is whatever framerate is desired, e.g. 90, 120, 144, etc. If the supplied framerate is 0, it will automatically be set to unlimited.
 It should look like this with 144 FPS.
