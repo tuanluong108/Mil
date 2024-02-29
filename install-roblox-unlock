@@ -193,7 +193,7 @@ case $useVulkan in
 \"FFlagHumanoidParallelSafeUnseat\": \"true\",\
 \"FFlagHumanoidParallelUseManager4\": \"true\",\
 \"FFlagCloudsUseBC4Compression\": \"true\",\
-\"FIntClientCompressionFormatRequestPC": \"3\",\
+\"FIntClientCompressionFormatRequestPC\": \"3\",\
 \"FFlagCloudsMvpForceNoHistory\": \"true\",\
 \"DFFlagThrottleDeveloperConsoleEvents\": \"true\",\
 \"FFlagFastGPULightCulling3\": \"false\", \
