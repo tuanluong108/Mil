@@ -77,7 +77,7 @@ case $useVulkan in
 \"FFlagFinishFetchingAssetsCorrectly\": \"true\",\
 \"FFlagEnableZeroLatencyCacheForVersionedAssets\": \"true\",\
 \"FFlagAnimationClipMemCacheEnabled\": \"true\",\
-\"FFlagRenderEnableGlobalInstancing\3": \"true\",\
+\"FFlagRenderEnableGlobalInstancing3\": \"true\",\
 \"FIntRenderEnableGlobalInstancingD3D10Percent\": \"100\",\
 \"FIntRenderEnableGlobalInstancingD3D11Percent\": \"100\",\
 \"FIntRenderEnableGlobalInstancingVulkanPercent\": \"100\",\
