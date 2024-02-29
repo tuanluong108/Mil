@@ -276,7 +276,7 @@ case $useVulkan in
 \"DFStringLightstepToken\": \"opt-out\",\
 \"DFStringHttpPointsReporterUrl\": \"https://opt-out.roblox.com\",\
 \"DFStringCrashUploadToBacktraceBaseUrl\": \"https://opt-out.roblox.com\",\
-\"FFlagBacktraceMainSourcePathEnable\d": \"false\", \
+\"FFlagBacktraceMainSourcePathEnabled\": \"false\", \
 \"FStringErrorUploadToBacktraceBaseUrl\": \"https://opt-out.roblox.com\",\
 \"DFFlagReportGlobalAnalyticsUniverseAndPlaceIds\": \"false\", \
 \"DFStringRobloxAnalyticsSubDomain\": \"opt-out\",\
