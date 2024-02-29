@@ -83,7 +83,7 @@ case $useVulkan in
 \"FIntRenderEnableGlobalInstancingVulkanPercent\": \"100\",\
 \"FIntRenderEnableGlobalInstancingMetalPercent\": \"100\",\
 \"FFlagEnablePrefetchTimeout\": \"true\",\
-\"DFFlagAddJobStartTimesExpiringPrefetch\": "true",\
+\"DFFlagAddJobStartTimesExpiringPrefetch\": \"true\",\
 \"FFlagPrefetchOnEveryPlatform\": \"true\",\
 \"FFlagCacheRequestedMaxSize\": \"true\",\
 \"FFlagAudioAssetsInResizableCache2\": \"true\",\
