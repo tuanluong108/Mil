@@ -207,45 +207,45 @@ case $useVulkan in
 \"DFFlagLocServiceGetSourceLanguageFromWebAPI\": \"true\",\
 \"DFFlagPlayerConfigurer2886\": \"true\",\
 \"FFlagPlayerConfigurer2759\": \"true\",\
-\"DFFlagPredictedOOM": \"false\", \
+\"DFFlagPredictedOOM\": \"false\", \
 \"DFFlagPredictedOOMAbs\": \"false\", \
-\"DFFlagPredictedOOMMessageKeepPlayingLeave": \"false\", \
-\"FFlagBatchThumbnailFetcherTimedOutSupport": \"true\",\
-\"FFlagFileMeshToChunks2": \"true\",\
-\"FFlagKickClientOnCoreGuiRenderOverflow": \"false\", \
-\"FFlagLuaAppSystemBar": \"true\",\
-\"FFlagGraphicsGLTextureReduction": \"true\",\
-\"FFlagWriteFileMeshToChunks": \"true\",\
-\"FFlagIxpPrefetchOnEveryPlatform": \"true\",\
-\"FFlagEnableInGameMenuV3": \"false\", \
-\"FFlagDisableNewIGMinDUA": \"true\",\
-\"DFFlagDisconnectPlayerOnRemove2": \"false\", \
-\"FFlagMovePrerender": \"false\", \
-\"DFLogHttpTrace": \"0\",\
-\"DFLogHttpTraceError": \"0\",\
-\"DFLogHttpTraceLight": \"0\",\
-\"DFFlagAnimatorAnalyticsEnabled": \"false\", \
-\"FFlagReportFpsAndGfxQualityPercentiles": \"false\", \
-\"FStringImmersiveAdsUniverseWhitelist": \"0\",\
-\"FFlagImmersiveAdsWhitelistDisabled": \"false\", \
-\"FFlagAdGuiEnabled3": \"false\", \
-\"FFlagEnableAdsAPI": \"false\", \
-\"FFlagEnableBackendAdsProviderTimerService": \"false\", \
-\"FFlagAdPortalEnabled3": \"false\", \
-\"FFlagAdServiceEnabled": \"false\", \
-\"FFlagEnableAdPortalTimerService2": \"false\", \
-\"DFFlagEnableAdUnitName": \"false\", \
-\"FFlagEnableAdGuiTimerService": \"false\", \
-\"FFlagAdGuiTextLabelEnabled": \"false\", \
-\"FFlagAdPortalAdFetchEnabled": \"false\", \
-\"DFFlagAdGuiImpressionDisabled": \"false\", \
-\"DFFlagEnableHardwareTelemetry": \"false\", \
-\"DFIntHardwareTelemetryHundredthsPercent": \"0\", \
-\"DFFlagEphemeralCounterInfluxReportingEnabled": \"false\", \
-\"DFIntEphemeralCounterInfluxReportingPriorityHundredthsPercent": \"0\", \
-\"DFIntEphemeralCounterInfluxReportingThrottleHundredthsPercent": \"100000\",\
-\"DFIntEphemeralStatsInfluxReportingPriorityHundredthsPercent": \"0\", \
-\"DFIntEphemeralStatsInfluxReportingThrottleHundredthsPercent": \"100000\",\
+\"DFFlagPredictedOOMMessageKeepPlayingLeave\": \"false\", \
+\"FFlagBatchThumbnailFetcherTimedOutSupport\": \"true\",\
+\"FFlagFileMeshToChunks2\": \"true\",\
+\"FFlagKickClientOnCoreGuiRenderOverflow\": \"false\", \
+\"FFlagLuaAppSystemBar\": \"true\",\
+\"FFlagGraphicsGLTextureReduction\": \"true\",\
+\"FFlagWriteFileMeshToChunks\": \"true\",\
+\"FFlagIxpPrefetchOnEveryPlatform\": \"true\",\
+\"FFlagEnableInGameMenuV3\": \"false\", \
+\"FFlagDisableNewIGMinDUA\": \"true\",\
+\"DFFlagDisconnectPlayerOnRemove2\": \"false\", \
+\"FFlagMovePrerender\": \"false\", \
+\"DFLogHttpTrace\": \"0\",\
+\"DFLogHttpTraceError\": \"0\",\
+\"DFLogHttpTraceLight\": \"0\",\
+\"DFFlagAnimatorAnalyticsEnabled\": \"false\", \
+\"FFlagReportFpsAndGfxQualityPercentiles\": \"false\", \
+\"FStringImmersiveAdsUniverseWhitelist\": \"0\",\
+\"FFlagImmersiveAdsWhitelistDisabled\": \"false\", \
+\"FFlagAdGuiEnabled3\": \"false\", \
+\"FFlagEnableAdsAPI\": \"false\", \
+\"FFlagEnableBackendAdsProviderTimerService\": \"false\", \
+\"FFlagAdPortalEnabled3\": \"false\", \
+\"FFlagAdServiceEnabled\": \"false\", \
+\"FFlagEnableAdPortalTimerService2\": \"false\", \
+\"DFFlagEnableAdUnitName\": \"false\", \
+\"FFlagEnableAdGuiTimerService\": \"false\", \
+\"FFlagAdGuiTextLabelEnabled\": \"false\", \
+\"FFlagAdPortalAdFetchEnabled\": \"false\", \
+\"DFFlagAdGuiImpressionDisabled\": \"false\", \
+\"DFFlagEnableHardwareTelemetry\": \"false\", \
+\"DFIntHardwareTelemetryHundredthsPercent\": \"0\", \
+\"DFFlagEphemeralCounterInfluxReportingEnabled\": \"false\", \
+\"DFIntEphemeralCounterInfluxReportingPriorityHundredthsPercent\": \"0\", \
+\"DFIntEphemeralCounterInfluxReportingThrottleHundredthsPercent\": \"100000\",\
+\"DFIntEphemeralStatsInfluxReportingPriorityHundredthsPercent\": \"0\", \
+\"DFIntEphemeralStatsInfluxReportingThrottleHundredthsPercent\": \"100000\",\
 \"DFFlagVoiceChatEnableEventCounters3\": \"false\", \
 \"DFFlagVoiceChatEnableEventLogging5\": \"false\", \
 \"DFFlagVoiceChatUnderrunErrorsTelemetry"\: \"false\", \
