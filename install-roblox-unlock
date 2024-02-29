@@ -279,16 +279,16 @@ case $useVulkan in
       \"DFStringLightstepHTTPTransportUrlHost\": \"https://opt-out.roblox.com\",\
       \"DFStringLightstepHTTPTransportUrlPath\": \"/opt-out\",\
       \"DFStringLightstepToken\": \"opt-out\",\
-      \"DFStringHttpPointsReporterUrl\": \"https://opt-out.roblox.com\",\
-      \"DFStringCrashUploadToBacktraceBaseUrl\": \"https://opt-out.roblox.com\",\
+      \"DFStringHttpPointsReporterUrl\": \"https://opt-out.roblox.com\", \
+      \"DFStringCrashUploadToBacktraceBaseUrl\": \"https://opt-out.roblox.com\", \
       \"FFlagBacktraceMainSourcePathEnabled\": \"false\", \
-      \"FStringErrorUploadToBacktraceBaseUrl\": \"https://opt-out.roblox.com\",\
+      \"FStringErrorUploadToBacktraceBaseUrl\": \"https://opt-out.roblox.com\", \
       \"DFFlagReportGlobalAnalyticsUniverseAndPlaceIds\": \"false\", \
-      \"DFStringRobloxAnalyticsSubDomain\": \"opt-out\",\
-      \"DFStringRobloxAnalyticsURL\": \"https://opt-out.roblox.com\",\
-      \"DFStringAnalyticsNS1ApplicationId\": \"opt-out\",\
+      \"DFStringRobloxAnalyticsSubDomain\": \"opt-out\", \
+      \"DFStringRobloxAnalyticsURL\": \"https://opt-out.roblox.com\", \
+      \"DFStringAnalyticsNS1ApplicationId\": \"opt-out\", \
       \"DFStringAnalyticsNS1BeaconConfig\": \"https://opt-out.roblox.com\", \
-   } "
+    } "
     ;;
 
   no)
