@@ -36,7 +36,7 @@ case $useVulkan in
 \"FFlagRenderTC2_Disable\": \"false\",\
 \"FIntRenderTC2_PercentageRollout\": \"100\",\
 \"FFlagRenderFixTC2MemoryLeak\": \"true\",\
-\"FFlagLoadCoreScriptsFromPatchOnly\": \"true",\
+\"FFlagLoadCoreScriptsFromPatchOnly\": \"true\",\
 \"FIntMaxCachedPatches\": \"3\",\
 \"DFIntAppLaunchFlowThrottlingRate\": \"0\", \
 \"FIntMeshContentProviderForceCacheSize\": \"200000000\",\
