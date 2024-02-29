@@ -248,7 +248,7 @@ case $useVulkan in
 \"DFIntEphemeralStatsInfluxReportingThrottleHundredthsPercent\": \"100000\",\
 \"DFFlagVoiceChatEnableEventCounters3\": \"false\", \
 \"DFFlagVoiceChatEnableEventLogging5\": \"false\", \
-\"DFFlagVoiceChatUnderrunErrorsTelemetry"\: \"false\", \
+\"DFFlagVoiceChatUnderrunErrorsTelemetry\": \"false\", \
 \"DFFlagVoiceChatHttpResultBodyEmptyTelemetry\": \"false\", \
 \"FFlagVoiceChatEnableBlockTelemetry\": \"false\", \
 \"FFlagVoiceChatReportTaskStats\": \"false\", \
